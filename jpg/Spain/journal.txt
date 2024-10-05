@@ -1,0 +1,18 @@
+1 to Budapesta
+2 Budapesta -> Valencia
+3 Valencia centru - La taberna de Marisa
+4 Valencia Oceanografic, centru Pizzeria Ris8tto
+5 Aeroport, masina, Calp plaja, Altea, Benidorm - Edificio de Caballos
+6 Benidorm centru
+7 Terra mitica
+8 La vila Joiosa - La casas de Colores, Alicante, Elche, Santa Pola, Lidl, Cartagena hotel.
+9 Granada, Fuengirola
+10 Aeroport - drop cards
+11 Fuengirola centru seara
+12 Marbella by bus
+13 Malaga by train
+14 Aeroport - pick up cars, Setenil, Ronda
+15 Gibraltar, Tarifa, Dunas de Valdevaqueros
+16-Aeroport drop cars
+17-Miramar centro commercial, Aeroport Malaga
+18-From Budapesta to Oradea
